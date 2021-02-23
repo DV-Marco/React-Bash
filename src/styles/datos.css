@@ -1,0 +1,27 @@
+.list {
+  border: 1px solid rgba(158, 158, 164, 0.25);
+  border-radius: 4px;
+  font-family: "Cascadia Code";
+  width: 300px;
+  text-align: center;
+  display: flex;
+  flex-flow: column wrap;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.tipografia{
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  justify-content: center;
+}
