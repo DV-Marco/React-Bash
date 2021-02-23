@@ -9,7 +9,7 @@ import "./../styles/personas.css";
 
 const styles = (theme) => ({
   margin: {
-    margin: theme.spacing(1)
+    margin: theme.spacing(2)
   }
 });
 
